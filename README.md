@@ -1,11 +1,11 @@
-# E-Commerce-Analyisis
+# -Analyisis
 Backround and Overview
   - Traffic and funnel
   - Regional
-  - Chanel
+  - Customer Demographics 
   - Product performance
 
-Data Structure Overview
-Executive Summary
-Insights Deep Dive
-Recommendations
+#Data Structure Overview
+#Executive Summary
+#Insights Deep Dive
+#Recommendations
