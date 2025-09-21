@@ -5,7 +5,7 @@ Backround and Overview
   - Customer Demographics 
   - Product performance
 
-#Data Structure Overview
-#Executive Summary
-#Insights Deep Dive
-#Recommendations
+Data Structure Overview
+Executive Summary
+Insights Deep Dive
+Recommendations
