@@ -52,7 +52,7 @@ Our recommendations our catered to the marketing department regarding what custo
 * Focus On High-Performing Regions: Allocate a larger portion of the budget to Northeast and West coast states where spending exceeds the national average. 
 * Localized Messaging: Tailor campaigns by region (urban vs. rural) emphasizing convenience and relevance to customer needs. 
 ### Demographic Expansion 
-* Middle Income: Middle- income customers showed strong engagement that offer potential for everyday affordability campaigns. Emphasizing deals on daily essentials. 
+* Middle Income: Middle income customers showed strong engagement that offer potential for everyday affordability campaigns. Emphasizing deals on daily essentials. 
 * Age Group: The 18-24 age group are currently low spenders but represent long-term customer potential. Campaigns should focus on building brand loyalty.
 
 
@@ -63,3 +63,4 @@ Our recommendations our catered to the marketing department regarding what custo
 
 ## Dashboard 
 The dashboard can be found in Tableau Public 
+![Amazon Dashboard](Images/Amazon%20DB%20SS.png)
