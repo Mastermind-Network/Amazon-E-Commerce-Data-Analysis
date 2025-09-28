@@ -62,5 +62,5 @@ Our recommendations our catered to the marketing department regarding what custo
 * Geographic Labels: District of Columbia appeared in the data but is not a U.S. state. Guidance is required on whether to treat it as a separate region, merge it with surrounding states, or exclude it from state-level comparisons.
 
 ## Dashboard 
-The dashboard can be found in Tableau Public 
+ [View the Interactive Tableau Dashboard]([https://public.tableau.com/views/YourDashboardName/YourViewName](https://public.tableau.com/views/AmazonMarketingInsightsDemographicsTrendsRegions/AmazonDB?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 ![Amazon Dashboard](Images/Amazon%20DB%20SS.png)
