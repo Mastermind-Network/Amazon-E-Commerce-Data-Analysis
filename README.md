@@ -63,4 +63,5 @@ Our recommendations our catered to the marketing department regarding what custo
 
 ## Dashboard 
 ## Interactive Dashboard  
-[![Amazon Dashboard](Images/Amazon%20DB%20SS.png)](https://public.tableau.com/views/AmazonDashboard/Sheet1)
+Explore the full interactive Tableau dashboard by clicking the image below.
+[![Amazon Dashboard](Images/Amazon%20DB%20SS.png)]([https://public.tableau.com/views/AmazonDashboard/Sheet1](https://public.tableau.com/views/AmazonMarketingInsightsDemographicsTrendsRegions/AmazonDB?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
