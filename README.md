@@ -40,3 +40,6 @@ In order to evaluate customer behavior and marketing oppertunities, we focoused 
 ## Recommendations
 
 ## Clarifying Questions
+* Data Gaps: Thousands of rows in amazon_purchases contained missing values for title and category. These fields were normalized to "Unknown" to since every record had an asin_isbn. 
+* Date Range: Although the dataset documentation indicates coverage through 2022, the raw data included 3,506 purchases from 2023 and one record from 2024. Clarification is needed on whether these transactions should be retained or excluded for accuracy. 
+* Geographic Labels: District of Columbia appeared in the data but is not a U.S. state. Guidance is required on whether to treat it as a separate region, merge it with surrounding states, or exclude it from state-level comparisons. 
