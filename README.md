@@ -32,7 +32,11 @@ In order to evaluate customer behavior and marketing oppertunities, we focoused 
 * Quarterly Spending 2022: The 2022 quartile stats are noticeably lower than 2021 with the exception of a strong Q3. 
 * Gender Comparison: Male and Female customers showed similar monthly spending throughout the year, with only a slight difference between the groups. 
 * Monthly Patterns: Spending spikes were observed in March, June, November, and December.
+
+### Regional Analysis 
+* State-level spending against the national average showed a wide distribution across the U.S. 
+* High-Performing Regions: Strongest states were in the Northeast and West, outperforming the national average. 
+* Low-Performing Regions: Many Northern states underperformed relative to the national benchmark 
+* Regional Variance: The spread between the top and bottom performing states was approximately 76%, relative to the national average, highlighting significant geographic disparities in Amazon shopping behavior. 
   
-Executive Summary
-Insights Deep Dive
-Recommendations
+## Recommendations
