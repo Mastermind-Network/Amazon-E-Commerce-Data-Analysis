@@ -46,7 +46,7 @@ Our recommendations our catered to the marketing department regarding what custo
 * **Holiday campaign:** Emphasizing convenience of gifting for the holiday season in Q4 when spending is at its highest.  
 * **Summer promotions:** Launch targeted summer and end of season campaigns to capitalize on the spikes in June/July. 
 ### Customer Growth and Retention 
-* Leverage Core Customer Insights: Focus campaigns on the age group 25-44 and larger households, which had the highest spending levels. 
+* **Leverage Core Customer Insights: Focus campaigns on the age group 25-44 and larger households, which had the highest spending levels. 
 * **Targeted Ads:** Create family-oriented promotions for larger households (4+). Highlighting products for children and household activities.  
 * **Loyalty Programs:** Develop incentives by introducing repeat purchase discounts and product subscriptions. 
 ### Regional Growth Strategies 
